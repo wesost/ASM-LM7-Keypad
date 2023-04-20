@@ -1,7 +1,7 @@
 # Grade and Reflection
 Assignment: LM7 Password Keypad    
-Date/Time completed:   
-Approximate time spent on LM:  
+Date/Time completed:   4/20 12:20
+Approximate time spent on LM:  11h
 
 ## Instructions
 Along with turning in all of the components of the assignment, you are also going to need to complete this Grade and Reflection document. **The goal of this is to aid in finding and focusing on where feedback is needed and to give you space to evaluate your own work.**
@@ -30,15 +30,18 @@ Your graded is evaluated on:
 
 | Part   | Category                 | Points Possible | Self Evaluation | Graded Score |
 | -------|--------------------------|:---------------:|----------------:|--------------|
-| Part 1 | Password Keypad          |         90 pts  |                 |              |
-|        | Self Reflection          |         10 pts  |                 |              |
-| Total  |                          |        100 pts  |                 |              |
+| Part 1 | Password Keypad          |         90 pts  |       80          |              |
+|        | Self Reflection          |         10 pts  |         10        |              |
+| Total  |                          |        100 pts  |          90       |              |
 
 
 ## What went well? What surprised you in a good way? What do you feel proud about?
-
+I thought I ended up with a really good understanding of branching and looping and all the commands I used. I also thought 
+I was good at being persistent even though it was a very challenging LM for me. 
 ## What barriers were there? Where was the friction? 
-
+I had a lot of issues where I got stuck and couldn't figure out how to move forward, I went in to office hours at least four times to 
+go over things and got a lot of help from Scott. 
 ## If you didn't finish, where did you get stuck? What were your next steps going to be?
-
-## Do you have any questions you are going to ask in class and/or in office hours? I.e. do you need any actionable feedback? Remember, you need to initiate the feedback process!
+I wasn't able to get the reset function working 100% correctly, so I was going to look further into the resetloop, bothpressed loop, etc to try and figure out the issue.
+## Do you have any questions you are going to ask in class and/or in office hours? I.e. do you need any actionable feedback? Remember, you need to initiate the feedback process! 
+I think this LM could be completed much easier by using subroutines and things we learned later in class after this LM was due or largely completed, so just having a good grasp of those concepts should be really helpful moving forward.
