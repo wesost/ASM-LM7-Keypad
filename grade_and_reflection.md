@@ -30,9 +30,11 @@ Your graded is evaluated on:
 
 | Part   | Category                 | Points Possible | Self Evaluation | Graded Score |
 | -------|--------------------------|:---------------:|----------------:|--------------|
-| Part 1 | Password Keypad          |         90 pts  |       80          |              |
-|        | Self Reflection          |         10 pts  |         10        |              |
-| Total  |                          |        100 pts  |          90       |              |
+| Part 1 | Password Keypad          |         90 pts  |       80        |           85 |
+|        | Self Reflection          |         10 pts  |         10      |           10 |
+| Total  |                          |        100 pts  |          90     |           95 |
+
+Nice work! You got real close!
 
 
 ## What went well? What surprised you in a good way? What do you feel proud about?
